@@ -12,6 +12,11 @@ Version: 0.0.1
 Author URI: https://www.teodoropiccinni.com/
 */
 
+// Default security WP check
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
+
 // Process Instagram embedded contents
 function instagram_embedded_customizer($content) {
 	/** Customize post content from plugin settings */
