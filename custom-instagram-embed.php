@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-// Process Instagram embedded contents
+// Process embedded Instagram contents
 function custom_instagram_embed($content) {
 	/** Customize post content from plugin settings */
 	if(strpos($content, 'instagr.am') !== false || strpos($content, 'instagram.com') !== false){ // if instagram embed
