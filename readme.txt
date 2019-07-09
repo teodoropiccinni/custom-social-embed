@@ -1,6 +1,6 @@
-=== Instagram Embedded Custom ===
+=== Custom Instagram Embed ===
 Contributors: teodoropiccinni
-Stable tag: 1.0.0
+Stable tag: 0.0.3
 Tested up to: 5.2
 Requires at least: 4.6
 
