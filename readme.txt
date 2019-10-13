@@ -9,11 +9,11 @@ License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
  
 
-This plugin will help you in removing some frustrating description and comments from embedded Instagram photos and videos.
+This WordPress plugin will help you in removing some frustrating description and comments on photos and videos embedded from Instagram social network. Custom Social Embed is developed by Teodoro PICCINNI, not officially approved or released by Instagram developers team.
 
 == Description ==
 
-This plugin will help you in removing some frustrating description and comments from embedded Instagram photos and videos.
+This WordPress plugin will help you in removing some frustrating description and comments on photos and videos embedded from Instagram social network. Custom Social Embed is developed by Teodoro PICCINNI, not officially approved or released by Instagram developers team.
 
 == Screenshots ==
 
