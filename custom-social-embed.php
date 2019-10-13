@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Custom_Social_Embed
- * @version 1.0.0
+ * @version 1.0.1
  */
 /*
 Plugin Name: Custom Social Embed
 Plugin URI: http://wordpress.org/plugins/custom-social-embed/
 Description: This WordPress plugin will help you in removing some frustrating description and comments on photos and videos embedded from Instagram social network. Custom Social Embed is developed by Teodoro PICCINNI, not officially approved or released by Instagram developers team.
 Author: Teodoro PICCINNI
-Version: 0.0.3
+Version: 1.0.1
 Author URI: https://www.teodoropiccinni.com/
 */
 

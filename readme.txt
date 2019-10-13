@@ -1,8 +1,8 @@
-=== Custom Instagram Embed ===
+=== Custom Social Embed ===
 Contributors: teodoropiccinni
 Donate link: https://www.paypal.me/teodoropiccinni
-Stable tag: 0.0.3
-Tested up to: 5.2.2
+Stable tag: 1.0.1
+Tested up to: 5.2.3
 Requires at least: 4.6
 Tags: instagram, comment, comments, hashtag, hashtags, embedded, embed
 License: GPLv3 or later
@@ -17,6 +17,6 @@ This WordPress plugin will help you in removing some frustrating description and
 
 == Screenshots ==
 
-1. View of backend Plugin panel: Custom Instagram Embed
+1. View of backend Plugin panel: Custom Social Embed
 2. This is how the the default Instagram embedding engine works
-3. After enabling the Custom Instagram Embed plugin. All TAGS and comments are removed
+3. After enabling the Custom Social Embed plugin. All TAGS and comments are removed
